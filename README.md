@@ -5,8 +5,6 @@ This Power BI dashboard provides a detailed view of the sales performance for th
 It includes key metrics, sales trends, and customer demographics, focusing on different regions (France, Germany, United Kingdom, United States). 
 This comprehensive dashboard allows users to monitor sales data, analyze trends, and make informed decisions.
 
-👉 **Check out the live website here:** :
-
 ## Dashboard Demo
 ![PowerBI-SalesDashboard](Details/SalesPBIDemo.gif)
 
